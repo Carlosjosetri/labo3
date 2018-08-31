@@ -7,6 +7,24 @@ table{
 
 .black{
     background-color: black;
-
+color:black;
 }
 
+td{
+  font-size: 1.3em;
+   color: white;
+   
+   
+}
+
+div:hover{
+    background-color:rgba(255, 0, 0, 0.5);
+    color: white;
+}
+
+div{
+  margin:0.03em;
+  font-size-adjust: initial;
+  width: 5.3em;
+  height: 5.3em;
+}
