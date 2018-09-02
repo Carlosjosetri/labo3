@@ -1,0 +1,146 @@
+input[value="Grande"]{
+  width: 7em;
+  height: 4em;
+}
+
+input[value="Pequeno"]{
+    width: 4.9em;
+    height: 1.5em;
+  }
+
+  input[value="Normal"]{
+    width: 5em;
+    height: 2em;
+  }
+  
+  input[value="Esmeralda"]{
+    width: 5em;
+    height: 2em;
+    background-color: #59d68d 
+  }
+  
+  input[value="Cielo"]{
+    width: 5em;
+    height: 2em;
+    background-color: #96e1fa 
+  }
+  
+  input[value="Asfalto"]{
+    width: 5em;
+    height: 2em;
+    background-color: #5c6e81
+  }
+  
+  input[value="Amatista"]{
+    width: 5em;
+    height: 2em;
+    background-color: #b37dc4
+  }
+  
+  input[value="Ruby"]{
+    width: 5em;
+    height: 2em;
+    background-color:#eb6f62
+  }
+  
+  input[value="Topazio"]{
+    width: 5em;
+    height: 2em;
+    background-color:#ea974e
+  }
+  
+  input[value="bTopazio"]{
+    width: 5em;
+    height: 2em;
+    background:none;
+    border-color: #ea974e;
+    color: #ea974e
+
+  }input[value="bAmatista"]{
+    width: 5em;
+    height: 2em;
+    background:none;
+    border-color: #b37dc4;
+    color: #b37dc4
+
+  }
+
+  
+input[value="bRuby"]{
+    width: 5em;
+    height: 2em;
+    background:none;
+    border-color: #eb6f62;
+    color: #eb6f62
+
+  }
+  
+
+input[value="bAsfalto"]{
+    width: 5em;
+    height: 2em;
+    background:none;
+    border-color: #5c6e81;
+    color: #5c6e81
+
+  }
+
+  input[value="bEsmeralda"]{
+    width: 5em;
+    height: 2em;
+    background:none;
+    border-color: #59d68d;
+    color: #59d68d
+
+  }
+  input[value="bRuby"]{
+    width: 5em;
+    height: 2em;
+    background:none;
+    border-color: #eb6f62;
+    color: #eb6f62
+
+  }
+  input[value="bCielo"]{
+    width: 5em;
+    height: 2em;
+    background:none;
+    border-color: #96e1fa;
+    color: #96e1fa
+
+  }
+
+  input[value="1"]{
+    width: 7em;
+    height: 3em;
+    background-color: #5c6e81;
+   
+    color: white
+
+  }
+  
+  input[value="3"]{
+    width: 5em;
+    height: 1.3em;
+    background-color: #59d68d;
+   
+    color: white
+
+  }
+
+  input[value="2"]{
+    width: 5em;
+    height: 2em;
+    background:none;
+    border-color: #96e1fa;
+    color: #96e1fa
+
+  }
+  input[value="4"]{
+    width: 7em;
+    height: 3em;
+    background:none;
+    border-color: #eb6f62;
+    color: #eb6f62
+
+  }
